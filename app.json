@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "mobile-mytinearies-two-devs",
+    "slug": "mobile-mytinearies-two-devs",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo_transparent.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/logo_transparent.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logo_transparent.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
